@@ -10,7 +10,7 @@
 ```javascript
 const user = {
   fullName: "Felipe Costa Rocha Silva",
-  techs: ["HTML", "CSS", "Javascript", "Typescript", "Python", "ReactJS", "NextJS", "SASS"]
+  techs: ["HTML", "CSS", "Javascript", "Typescript", "Python", "ReactJS", "NextJS", "React Native", "SASS"]
 }
 ```
 ---
