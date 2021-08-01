@@ -14,3 +14,5 @@ const user = {
 }
 ```
 ---
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipecrsilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><img width="200em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecrsilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
